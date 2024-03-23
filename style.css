@@ -458,25 +458,8 @@ input[type="checkbox"] {
     font-size: 25px;
     padding: 15px 20px;
     font-weight: bolder;
-    background-color: #91606f;
-}
-
-.about-text a {
-    color: #fff;
-    background-color: #f9004d;
-    font-size: 20px;
-    padding: 10px;
-    font-weight: bold;
-    outline: none;
-    border: none;
-    border-radius: 30px;
-    transition: all 0.5s ease;
-}
-
-.about-text a:hover {
-    background-color: transparent;
-    border: 2px solid #f9004d;
-    cursor: pointer;
+    background-color: #1b1a1a;
+    color: white;
 }
 
 .main {
